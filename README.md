@@ -53,7 +53,7 @@ A desktop Java Swing application for task management. Demonstrates OOP principle
 ## 📫 Contact
 
 - **Location:** Washington State
-- **Email:** [jordanwood159@gmail.com(mailto:jordanwood159@gmail.com)
+- **Email:** [jordanwood159@gmail.com](mailto:jordanwood159@gmail.com)
 - **LinkedIn:** [linkedin.com/Jordan526](https://linkedin.com/Jordan526)
 - **GitHub:** [Jordan-360](https://github.com/Jordan-360)
 
