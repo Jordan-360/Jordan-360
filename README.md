@@ -1,6 +1,6 @@
 # Jordan Wood – Software Developer
 
-Welcome to my overview page! My name is **Jordan Wood**, and I'm an experienced software developer based in Washington State. With a strong foundation in Java and a security-first mindset, I build reliable, user-focused software solutions. Below you'll find an overview of my background, skills, and featured projects.
+Welcome to my overview page! My name is Jordan, and I'm an experienced software developer based in Washington State. With a strong foundation in Java and a security-first mindset, I build reliable, user-focused software solutions. Below you'll find an overview of my background, skills, and featured projects.
 
 ---
 
@@ -53,7 +53,7 @@ A desktop Java Swing application for task management. Demonstrates OOP principle
 ## 📫 Contact
 
 - **Location:** Washington State
-- **Email:** [JORDANWOOD159@GMAIL.COM](mailto:JORDANWOOD159@GMAIL.COM)
+- **Email:** [jordanwood159@gmail.com(mailto:jordanwood159@gmail.com)
 - **LinkedIn:** [linkedin.com/Jordan526](https://linkedin.com/Jordan526)
 - **GitHub:** [Jordan-360](https://github.com/Jordan-360)
 
