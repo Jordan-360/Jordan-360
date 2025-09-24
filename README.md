@@ -1,6 +1,6 @@
-# Jordan Wood – Software Developer
+# Jordan Wood – Aspiring Software Developer
 
-Welcome to my overview page! My name is Jordan, and I'm an experienced software developer based in Washington State. With a strong foundation in Java and a security-first mindset, I build reliable, user-focused software solutions. Below you'll find an overview of my background, skills, and featured projects.
+Welcome to my overview page! My name is Jordan, and I'm an aspiring software developer based in Washington State. With a strong foundation in Java and a security-first mindset, I build reliable, user-focused software solutions. Below you'll find an overview of my background, skills, and featured projects.
 
 ---
 
@@ -32,13 +32,13 @@ Welcome to my overview page! My name is Jordan, and I'm an experienced software 
 
 ## 🚀 Projects
 
-### [VoteSafe – Secure Voter Verification System](https://github.com/Jordan-360/VoteSAFE.git)
+### [VoteSafe – Secure Voter Verification System](https://github.com/Jordan-360/VoteSAFE)
 A web-based application for secure voter registration. Features identity verification, user-friendly UI, and robust MySQL database management for privacy and scalability.
 
-### [Java Real-Time Weather Application](https://github.com/Jordan-360/WeatherApp.git)
+### [Java Real-Time Weather Application](https://github.com/Jordan-360/WeatherApp)
 A CLI application in Java that retrieves live weather data using the Open-Meteo REST API. Includes city name disambiguation, error handling, and formatted console output.
 
-### [GUI Based ToDo Application](https://github.com/Jordan-360/ToDo-App-GuiBased.git)
+### [GUI Based ToDo Application](https://github.com/Jordan-360/ToDo-App-GuiBased)
 A desktop Java Swing application for task management. Demonstrates OOP principles, CRUD operations, responsive UI, and effective use of Git for version control.
 
 ---
@@ -46,7 +46,7 @@ A desktop Java Swing application for task management. Demonstrates OOP principle
 ## 🏆 Awards & Recognition
 
 - Dean’s List (2019–2021)
-- Babe Ruth Baseball World Series Gold Glove Award Recipient
+- 2014 Babe Ruth Baseball World Series Gold Glove Award Recipient
 
 ---
 
