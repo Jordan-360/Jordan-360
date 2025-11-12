@@ -12,7 +12,9 @@ Welcome to my overview page! My name is Jordan, and I'm an aspiring software dev
 
 - **Experience:**  
   Operations Manager & IT Support / Developer at Timberline Development, Inc
+  
   Rapid Response Technician Intern at FusionTek
+  
   Prep/Line Cook at Crockett's Public House (demonstrating teamwork and leadership)
 
 - **Certifications:**  
