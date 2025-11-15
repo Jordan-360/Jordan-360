@@ -7,7 +7,7 @@ Welcome to my overview page! My name is Jordan, and I'm an aspiring software dev
 ## 👨‍💻 About Me
 
 - **Education:**  
-  - Bachelor’s of Science (B.S.) in Software Development (Grand Canyon University, 2025)
+  - Bachelor’s of Science (B.S.), Software Development (Grand Canyon University, 2025)
   
   - Associate’s of Arts (A.A.), Computer Science (Pierce Community College, 2021)
 
