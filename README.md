@@ -9,7 +9,7 @@ Welcome to my overview page! My name is Jordan, and I'm an aspiring software dev
 - **Education:**  
   - Bachelor’s of Science (B.S.) in Software Development (Grand Canyon University, 2025)
   
-  - Associate’s of Arts (A.A.), Computer Science Focused (Pierce Community College, 2021)
+  - Associate’s of Arts (A.A.), Computer Science (Pierce Community College, 2021)
 
 - **Experience:**  
   - Operations Manager & IT Support / Developer at Timberline Development, Inc
