@@ -13,7 +13,6 @@
 - 💼 Currently a **Software Engineer Intern @ Pierce County**, migrating legacy AngularJS apps to **Angular 13 + TypeScript** on the LINX justice platform
 - 🔭 Open to **full-time SWE / frontend roles** — let's talk
 - 🎮 Got into engineering through a love of gaming — still the thing that keeps me excited to build
-- 🌱 Side project in progress: a cannabis strain lookup app
 
 ---
 
