@@ -101,4 +101,4 @@ Diagnosed and resolved hardware, software, and network issues across a multi-cli
   💼 <a href="https://www.linkedin.com/in/jordanwood526/">LinkedIn</a> · 
   🌐 <a href="https://jordanwood.vercel.app">Portfolio</a>
 </p>
-<p align="center"><i>Thanks for stopping by — feel free to check out my projects or reach out about opportunities.</i></p>
+<p align="center"><i>Thanks for stopping by — feel free to check out my projects or reach out about opportunities & collaboration.</i></p>
