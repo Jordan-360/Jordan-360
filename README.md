@@ -1,68 +1,47 @@
-# Jordan Wood – Aspiring Software Developer
-
-Welcome to my overview page! My name is Jordan, and I'm an aspiring software developer based in Washington State. With a strong foundation in Java and a security-first mindset, I build reliable, user-focused software solutions. Below you'll find an overview of my background, skills, and featured projects.
-
+# Jordan Wood – Software Developer
+Welcome to my overview page! My name is Jordan, and I'm a software developer based in Washington State. I build reliable, user-focused software across the stack, with a growing focus on modern frontend development. Below you'll find an overview of my background, skills, and featured projects.
 ---
-
 ## 👨‍💻 About Me
-
-- **Education:**  
-  - Bachelor’s of Science (B.S.), Software Development (Grand Canyon University, 2025)
-  
-  - Associate’s of Arts (A.A.), Computer Science (Pierce Community College, 2021)
-
 - **Experience:**  
+  - Software Engineer Intern at Pierce County IT (LINX justice platform – migrating legacy AngularJS applications to Angular 13 with TypeScript)
+  
   - Operations Manager & IT Support / Developer at Timberline Development, Inc
-  
-  - Rapid Response Technician Intern at FusionTek
-  
-  - Prep/Line Cook at Crockett's Public House (demonstrating teamwork and leadership)
 
+  - Rapid Response Technician Intern at FusionTek
+- **Education:**  
+  - Bachelor's of Science (B.S.), Software Development (Grand Canyon University, 2025)
+  
+  - Associate's of Arts (A.A.), Computer Science (Pierce College, 2021)
 - **Certifications:**  
   - Google Cybersecurity Professional
   
   - Google IT Support Professional
   
   - CompTIA A+ 1101 Core 1
-
 ---
-
 ## 🛠️ Skills
-
-- **Languages:** Java, C#, JavaScript, HTML, CSS, SQL
-- **Frameworks/Tools:** RESTful APIs, MySQL, Java Swing, Git
+- **Languages:** JavaScript, TypeScript, Java, C#, HTML, CSS, SQL
+- **Frameworks/Tools:** Angular, React, RESTful APIs, MySQL, Git, Vite
 - **Methodologies:** Agile, Scrum, Secure Coding, Project Management
 - **Other:** Cybersecurity, Threat/Vulnerability Management, Collaboration & Communication
-
 ---
-
 ## 🚀 Projects
+### [Portfolio Site](https://jordanwood.vercel.app)
+A personal portfolio built from scratch with React, Vite, and Framer Motion, styled as a full VS Code IDE experience. Deployed on Vercel.
 
-### [VoteSafe – Secure Voter Verification System](https://github.com/Jordan-360/VoteSAFE)
-A web-based application for secure voter registration. Features identity verification, user-friendly UI, and robust MySQL database management for privacy and scalability.
-
-### [Java Real-Time Weather Application](https://github.com/Jordan-360/WeatherApp)
-A CLI application in Java that retrieves live weather data using the Open-Meteo REST API. Includes city name disambiguation, error handling, and formatted console output.
+### [MLB Dashboard](https://github.com/Jordan-360/WeatherApp)
+A multi-page web app in vanilla JavaScript combining the MLB Stats API, NewsAPI, and an RSS-to-JSON proxy, with ESPN-inspired styling.
 
 ### [GUI Based ToDo Application](https://github.com/Jordan-360/ToDo-App-GuiBased)
 A desktop Java Swing application for task management. Demonstrates OOP principles, CRUD operations, responsive UI, and effective use of Git for version control.
-
 ---
-
 ## 🏆 Awards & Recognition
-
-- Dean’s List (2019–2021)
-- 2014 Babe Ruth Baseball World Series Gold Glove Award Recipient
-
+- Dean's List (2019–2021)
 ---
-
 ## 📫 Contact
-
 - **Location:** Washington State
 - **Email:** [jordanwood159@gmail.com](mailto:jordanwood159@gmail.com)
 - **LinkedIn:** [linkedin.com/Jordan526](https://linkedin.com/Jordan526)
-- **Portfolio:** [Jordan-360](https://jordan-360.github.io)
-
+- **Portfolio:** [jordanwood.vercel.app](https://jordanwood.vercel.app)
 ---
-
 Thanks for visiting my overview page! Feel free to check out my projects or reach out for collaboration or job opportunities.
