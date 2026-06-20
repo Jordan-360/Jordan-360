@@ -92,6 +92,7 @@ Diagnosed and resolved hardware, software, and network issues across a multi-cli
 
 ### 🏆 Awards
 - Dean's List (2019–2021)
+- 2014 Babe Ruth World Series Gold Glove Award
 
 ---
 
