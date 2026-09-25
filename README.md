@@ -54,7 +54,6 @@ I got into this field through gaming. Wanting to understand how the things I pla
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG-111111?style=flat-square&logo=openai&logoColor=white)
 
 **Tools & DevOps**<br/>
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
