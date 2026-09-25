@@ -71,7 +71,7 @@ I got into this field through gaming. Wanting to understand how the things I pla
 **Software Engineer Intern** · Pierce County · *Feb 2026 – Jul 2026*<br/>
 Migrated production AngularJS applications to Angular 13 with TypeScript on the LINX justice platform. Refactored async service logic with RxJS, debugged UI and service-layer issues, and worked through structured Bitbucket code reviews with senior engineers.
 
-**Store Manager** · Lucid (Timberline Development) · *20XX – Dec 2023*<br/>
+**Manager** · Timberline Development, LLC · *April 2021 – Dec 2023*<br/>
 Supervised a team of 5–10 and handled accounting duties. Wrote a JavaScript script that reconciled JSON inventory data against the Excel manifest, cutting discrepancies by over 75% and saving about 40 hours of manual work per week. Also supported the company website and troubleshot Wi-Fi, printer, and POS issues.
 
 ---
