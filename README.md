@@ -80,7 +80,7 @@ Supervised a team of 5–10 and handled accounting duties. Wrote a JavaScript sc
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Patch TL;DR](https://github.com/Jordan-360/patch-notes-assistant)** | Turns long Overwatch patch notes into quick answers, with citations back to the source text | TypeScript, Node.js, RAG, LLMs |
+| **[RAG-Powered Patch Notes Assistant](https://github.com/Jordan-360/patch-notes-assistant)** | Turns long Overwatch patch notes into quick answers, with citations back to the source text | TypeScript, Node.js, RAG, LLMs |
 | **[TinyGPT](https://github.com/Jordan-360/tinygpt)** | A small GPT-style language model trained from scratch on Tiny Shakespeare, running on my own GPU | Python, PyTorch |
 | **[Portfolio Site](https://jordanwood.vercel.app)** | Personal site designed as a full VS Code IDE experience | React, Vite, Framer Motion |
 | **[Full-Stack Banking App](https://github.com/Jordan-360/Full-StackBankingApplication)** | Layered banking app with deposits, withdrawals, transfers, and real-time React dashboards | Java, Spring Boot, MySQL, React |
